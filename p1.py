@@ -1,0 +1,6 @@
+a=int(input("enter integer :"))
+print(type(a))
+b=input("enter string ")
+print(type(b))
+a=eval(input("enter :"))
+print(type(a))
